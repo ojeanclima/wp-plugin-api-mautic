@@ -3,15 +3,8 @@
   "description": "Descrição do seu projeto",
   "license": "MIT",
   "require": {
-    "php": "^7.4 || ^8.0",
-    "some/package": "^1.0.0"
+    "php": "^7.4 || ^8.0"
   },
-  "repositories": [
-    {
-      "type": "vcs",
-      "url": "https://github.com/ojeanclima/wp-plugin-api-mautic"
-    }
-  ],
   "minimum-stability": "dev",
   "prefer-stable": true
 }
