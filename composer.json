@@ -1,6 +1,7 @@
 {
   "name": "vendor/package",
   "description": "Descrição do seu projeto",
+  "license": "MIT",
   "require": {
     "php": "^7.4",
     "some/package": "^1.0"
